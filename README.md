@@ -277,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pari00720/PariMishra/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/pari00720/PariMishra/tree/master/0219-contains-duplicate-ii) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/pari00720/PariMishra/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
